@@ -17,6 +17,7 @@
 URL:https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
 
 **数据概览：**
+<img width="552" height="628" alt="image" src="https://github.com/user-attachments/assets/5469f374-022d-404e-8c01-7aa7e6112864" />
 
 
 ## 🛠️ 技术栈
