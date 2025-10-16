@@ -12,8 +12,8 @@
 2 使用 Pandas 将表格数据加载并处理为数据框。
 3 使用 Numpy 处理数据框中包含的信息。
 4 将更新后的数据框加载到CSV文件中.
-**数据来源：**
 
+**数据来源：**
 URL:https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
 
 **数据概览：**
